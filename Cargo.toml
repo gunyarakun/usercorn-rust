@@ -1,0 +1,6 @@
+[package]
+name = "usercorn-rust"
+version = "0.0.1"
+authors = ["Tasuku SUENAGA a.k.a. gunyarakun <tasuku-s-github@titech.ac>"]
+
+[dependencies]
