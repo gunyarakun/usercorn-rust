@@ -4,3 +4,9 @@ version = "0.0.1"
 authors = ["Tasuku SUENAGA a.k.a. gunyarakun <tasuku-s-github@titech.ac>"]
 
 [dependencies]
+unicorn = "0.7.0"
+keystone = "0.9.0"
+
+[dependencies.capstone]
+version = "0.1"
+features = ["build_capstone_cmake"]
