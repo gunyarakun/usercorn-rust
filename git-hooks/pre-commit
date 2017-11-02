@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+cargo fmt -- --write-mode=diff && cargo build && cargo test
